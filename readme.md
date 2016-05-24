@@ -1,4 +1,4 @@
-<img src="http://map.parsijoo.ir/img/logo.png" align="right" />
+<img src="images/logo.png" align="right" />
 # Parsijoo Maps + Leaflet
 > simple usage of Parsijoo Maps in your applications
 
